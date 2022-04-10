@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alibehzad79" alt="alibehzad79" /></a> </p>
 
-- A real project with Django **http://engecu.ir/**
-
 - 👨‍💻 All of my projects are available at [https://instagram.com/](https://instagram.com/)
 
 - 💬 Ask me about **Python, Django, HTML/CSS, Bootstrap, Selenium, Git, SEO**
