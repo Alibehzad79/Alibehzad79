@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alibehzad79" alt="alibehzad79" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://instagram.com/](https://instagram.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/Alibehzad79?tab=repositories/](https://github.com/Alibehzad79)
 
 - 💬 Ask me about **Python, Django, HTML/CSS, Bootstrap, Selenium, Git, SEO**
 
