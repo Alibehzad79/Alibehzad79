@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/alibehzad79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alibehzad79" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17505925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17505925" height="30" width="40" /></a>
-<a href="https://instagram.com/py.d.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="py.d.d" height="30" width="40" /></a>
+<a href="https://instagram.com/real.alibehzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="py.d.d" height="30" width="40" /></a>
 <a href="https://discord.gg/TurkAli#9284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TurkAli#9284" height="30" width="40" /></a>
 </p>
 
